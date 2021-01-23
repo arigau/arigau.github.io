@@ -34,7 +34,7 @@ volumes:
     driver_opts:
       type: none
       #fill out your absolute path to your folder here
-      device: C:\Users\aleri\Google Drive\UMD\Winter 2020\CMSC 388T\cmsc388T-web-template
+      device: C:\Users\aleri\Google Drive\UMD\Winter 2020\CMSC 388T\arigau.github.io
       o: bind
 
 networks:
