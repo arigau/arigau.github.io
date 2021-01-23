@@ -16,4 +16,4 @@ jobs:
           script: |
             cd ../pub
             unalias rm
-            rm -rf cmsc388T-web-template
+            rm -rf arigau.github.io
