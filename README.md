@@ -1,4 +1,6 @@
-# cmsc388T-web-template
+# arigau.github.io
+
+
 
 # Custom changes:
 - Changed the colors of the page
