@@ -15,5 +15,5 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             cd ../pub
-            cd cmsc388T-web-template
+            cd arigau.github.io
             git pull
