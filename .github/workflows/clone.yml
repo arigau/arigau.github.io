@@ -15,4 +15,4 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             cd ../pub/
-            git clone https://github.com/arigau/cmsc388T-web-template
+            git clone https://github.com/arigau/arigau.github.io
