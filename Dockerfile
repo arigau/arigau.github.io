@@ -6,7 +6,6 @@
 #there should be a total of 9 lines
 FROM node:10-alpine
 RUN mkdir -p /home/node/app && chown -R node:node /home/node/app
-RUN mkdir -p /home/node/node_modules/ && chown -R node:node /home/node/node_modules
 WORKDIR /home/node/app
 COPY . ./
 USER node
